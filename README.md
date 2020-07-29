@@ -1,6 +1,6 @@
 # Housing Market
 
-**Goal:** Analyze a housing market data set and create a regression model to predict housing prices.
+**Goal:** Analyse a housing market data set and create a regression model to predict housing prices.
 
 **Data Source:** https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
